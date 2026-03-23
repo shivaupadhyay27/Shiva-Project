@@ -9,6 +9,9 @@ body {
   background: linear-gradient(160deg, #1a1a2e, #16213e, #0f3460);
   min-height: 100vh;
   color: white;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
 }
 
 .container {
